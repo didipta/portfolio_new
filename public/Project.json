@@ -1,0 +1,141 @@
+[
+    {
+        "id":"1",
+        "name":"Advance java(Spring)",
+        "title":"Online Flowers Shop",
+        "type":"Website",
+        "videosrc":"https://www.youtube.com/embed/UPuThp7Hnak",
+        "detaile":"Online flower shop is the name of my project. This project was designed through spring framework(no-XML) java. There are two types of users in this project and they are Admin and Customers. My contribution was in writing the complete code for the website.",
+        "link":[
+            {
+                "id":"1",
+                "name":"Spring framework",
+                "url":"https://github.com/didipta/project_java_flower"
+            }
+        ]
+
+
+    },
+    {
+        "id":"2",
+        "name":"Advance .Net (ASP.NET)",
+        "title":"Online Medicine Service",
+        "type":"Website",
+        "videosrc":"https://www.youtube.com/embed/s4PTP4YEOSc",
+        "detaile":"Online Medicine Service is the name of my project. This project was designed through ASP.NET MVC, ASP.NET web API, and React JS. There are four types of users in this project they are Admin, Staff, Customers, and Delivery man. My contribution was in writing the complete ASP.NET MVC, backend(ASP.NET web API(SOLID and 3 tier app)), and frontend(react js) code for the Customers part of the website.",
+        "link":[
+            {
+                "id":"1",
+                "name":"MVC",
+                "url":"https://github.com/didipta/Online_Medicine_service"
+            },
+            {
+                "id":"2",
+                "name":"Web API",
+                "url":"https://github.com/didipta/onlinemedicineservice_-.net-"
+            },
+            {
+                "id":"3",
+                "name":"React js",
+                "url":"https://github.com/didipta/onlinemedicineservice_reactjs"
+            }
+        ]
+
+
+    }
+    ,
+    {
+        "id":"3",
+        "name":"Advance Web Designing",
+        "title":"Onlineshopping Website-Eflip",
+        "type":"Website",
+        "videosrc":"https://www.youtube.com/embed/EumSlaXtGdk",
+        "detaile":"Online Shopping Website-Eflip is the name of my project. This project was designed through the Laravel framework and React js. There are four types of users in this project they are Admin, Staff, Customers, and Delivery man. My contribution was in writing the complete backend (Laravel) and frontend (react js) code for the Customers part of the website.",
+        "link":[
+            {
+                "id":"1",
+                "name":"Laravel",
+                "url":"https://github.com/didipta/onlineshopping-Eflip"
+            },
+            {
+                "id":"2",
+                "name":"React js",
+                "url":"https://github.com/didipta/onlineshopping-eflip-react"
+            }
+        ]
+
+
+    }
+    ,
+    {
+        "id":"4",
+        "name":"Web Designing",
+        "title":"Restaurant Website-Food-hub",
+        "type":"Website",
+        "videosrc":"https://www.youtube.com/embed/zyKLKvHFu7U",
+        "detaile":"Restaurant Website-Food-hub is the name of my project. The project was designed through PHP,HTML,AJAX,CSS,JSON,XAMPP,JS.There are four types of users in this project and they are Admin,Staffs,Customers and Delivery man. My contribution was in writing the completecode for the website.",
+        "link":[
+            {
+                "id":"1",
+                "name":"PHP Project",
+                "url":"https://github.com/didipta/Food-hub"
+            }
+        ]
+
+
+    }
+    ,
+    {
+        "id":"5",
+        "name":"Desktop app(C#)",
+        "title":"Waste Management System",
+        "type":"Desktop app",
+        "videosrc":"https://www.youtube.com/embed/rMcV3--k1yk",
+        "detaile":"Waste Management System- Green Bangladesh is the name of my project.The project was designed C# language.There are four types of users in this project and they are Admin,Staffs,Customers and Delivery man. My contribution was in writing the complete code for the desktop app.",
+        "link":[
+            {
+                "id":"1",
+                "name":"C# Project",
+                "url":"https://github.com/didipta/Green-Bangladesh"
+            }
+        ]
+
+
+    }
+    ,
+    {
+        "id":"6",
+        "name":"Java Project",
+        "title":"University Management System",
+        "type":"Console app",
+        "photosrc":"https://i.ibb.co/QdcZ9Qk/java1.jpg",
+        "detaile":"University Management System is the name of my project. The project was designed Java language.There are four types of users in this project and they are Faculty,Employee,officers and students. My contribution was in writing the complete code for the System.",
+        "link":[
+            {
+                "id":"1",
+                "name":"Java Project",
+                "url":"https://github.com/didipta/java-UmS"
+            }
+        ]
+
+
+    }
+    ,
+    {
+        "id":"7",
+        "name":"Computer Graphics",
+        "title":"Beautiful Village Scenario",
+        "type":"Graphics",
+        "videosrc":"https://www.youtube.com/embed/rrkHTuwKBvU",
+        "detaile":"There are so many components and parts in our project. Like uses of geometric primitives,translation,rotation, scaling, animation, handle key press, handle mouse types of mode etc.All these parts are drawn in window using OpenGL. As the code writing part of the project is quite lengthy, there are some problematic part too. In our project, A Beautiful Village Scenario which is simple, good looking village.",
+        "link":[
+            {
+                "id":"1",
+                "name":"Graphics Project",
+                "url":"https://github.com/didipta/Graphic_project"
+            }
+        ]
+
+
+    }
+]
